@@ -1,0 +1,6 @@
+@CapaDatos_HostAddress = http://localhost:5115
+
+GET {{CapaDatos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
